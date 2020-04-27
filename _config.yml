@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-BY-huiker.jpeg # use absolute URL, seeing it's used i
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username: zouhui
+zhihu_username: zou-hui-80-64
 github_username: huiiiuh
 # facebook_username:
 # jianshu_username:
@@ -50,11 +50,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4 #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d #生成的clientSecret
-  repo: qiubaiying.github.io #仓库名称
-  owner: qiubaiying #github用户名
-  admin: qiubaiying
+  clientID: d30b2e32e1e81c192515 #生成的clientID
+  clientSecret: 2a288552e5f3f38f156f9a57bbca043dcc8d900b #生成的clientSecret
+  repo: huiiiuh.github.io #仓库名称
+  owner: huiiiuh #github用户名
+  admin: huiiiuh
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计
